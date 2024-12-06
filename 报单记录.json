@@ -1,0 +1,675 @@
+{
+    "errno": 0,
+    "code": 0,
+    "data": {
+        "is_follow": 0,
+        "stock_follow": [],
+        "records": [
+            {
+                "username": "\u50cf\u547c\u5438\u4e00\u6837\u7b80\u5355",
+                "yesterday_fund": 3225.78,
+                "group_rank": 10,
+                "match_id": 28,
+                "usercode": "801171",
+                "stock_date": "2024-12-05",
+                "df": "",
+                "yesterday_auto_complete": 0,
+                "is_markt": 0,
+                "rank": "",
+                "today_stock_img": [
+                    "http://hunanwanzhu.oss-cn-shenzhen.aliyuncs.com/hnwz/173338215191.png?x-oss-process=image/auto-orient,1/quality,q_90/watermark,text_6aG95Li75p2v5a6e55uY5aSn6LWb,color_ff0000,size_100,rotate_330,g_center,t_70,x_10,y_10"
+                ],
+                "player_id": "",
+                "yesterday_stock": [
+                    {
+                        "fund": "183.52",
+                        "stock_id": 19911,
+                        "code": "301335",
+                        "name": "\u5929\u5143\u5ba0\u7269",
+                        "money": "-10.787"
+                    },
+                    {
+                        "fund": "166.13",
+                        "stock_id": 19762,
+                        "code": "301116",
+                        "name": "\u76ca\u5ba2\u98df\u54c1",
+                        "money": "12.904"
+                    },
+                    {
+                        "fund": "155.14",
+                        "stock_id": 1084,
+                        "code": "301007",
+                        "name": "\u5fb7\u8fc8\u4ed5",
+                        "money": "1.949"
+                    },
+                    {
+                        "fund": "153.48",
+                        "stock_id": 1007,
+                        "code": "002520",
+                        "name": "\u65e5\u53d1\u7cbe\u673a",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "153.4",
+                        "stock_id": 8008,
+                        "code": "002643",
+                        "name": "\u4e07\u6da6\u80a1\u4efd",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "144.76",
+                        "stock_id": 9505,
+                        "code": "603040",
+                        "name": "\u65b0\u5750\u6807",
+                        "money": "-4.288"
+                    },
+                    {
+                        "fund": "142.47",
+                        "stock_id": 9270,
+                        "code": "600808",
+                        "name": "\u9a6c\u94a2\u80a1\u4efd",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "112.53",
+                        "stock_id": 1787,
+                        "code": "300109",
+                        "name": "\u65b0\u5f00\u6e90",
+                        "money": "-0.008"
+                    },
+                    {
+                        "fund": "100.28",
+                        "stock_id": 9472,
+                        "code": "601933",
+                        "name": "\u6c38\u8f89\u8d85\u5e02",
+                        "money": "1.531"
+                    },
+                    {
+                        "fund": "100.16",
+                        "stock_id": 19599,
+                        "code": "001287",
+                        "name": "\u4e2d\u7535\u6e2f",
+                        "money": "-0.007"
+                    },
+                    {
+                        "fund": "73.12",
+                        "stock_id": 8366,
+                        "code": "300245",
+                        "name": "\u5929\u7391\u79d1\u6280",
+                        "money": "-4.461"
+                    },
+                    {
+                        "fund": "62.14",
+                        "stock_id": 10307,
+                        "code": "836826",
+                        "name": "\u76d6\u4e16\u98df\u54c1",
+                        "money": "-0.093"
+                    },
+                    {
+                        "fund": "21.37",
+                        "stock_id": 63,
+                        "code": "600318",
+                        "name": "\u65b0\u529b\u91d1\u878d",
+                        "money": "-12.075"
+                    }
+                ],
+                "init_fund": 1907.4062,
+                "yesterday_stock_img": [
+                    "http://hunanwanzhu.oss-cn-shenzhen.aliyuncs.com/hnwz/173329578690.png?x-oss-process=image/auto-orient,1/quality,q_90/watermark,text_6aG95Li75p2v5a6e55uY5aSn6LWb,color_ff0000,size_100,rotate_330,g_center,t_70,x_10,y_10"
+                ],
+                "today_fund": 3233.28,
+                "cw": "",
+                "id": 50958,
+                "opmode_group_name": "",
+                "opmode_group": "",
+                "user_id": 107093,
+                "ctime": "2024-12-05 15:04:27",
+                "pz": "",
+                "experience": "",
+                "zq": "",
+                "total_income": "69.51%",
+                "match_name": "",
+                "comments_count": 0,
+                "avatar": "../../images/userdefault.png",
+                "today_income": "0.23%",
+                "auto_complete": 0,
+                "match_group": "136",
+                "today_stock": [
+                    {
+                        "fund": "304.96",
+                        "stock_id": 498,
+                        "code": "300624",
+                        "name": "\u4e07\u5174\u79d1\u6280",
+                        "money": "-0.023"
+                    },
+                    {
+                        "fund": "168.79",
+                        "stock_id": 1007,
+                        "code": "002520",
+                        "name": "\u65e5\u53d1\u7cbe\u673a",
+                        "money": "15.296"
+                    },
+                    {
+                        "fund": "162.69",
+                        "stock_id": 8630,
+                        "code": "300687",
+                        "name": "\u8d5b\u610f\u4fe1\u606f",
+                        "money": "9.452"
+                    },
+                    {
+                        "fund": "153.84",
+                        "stock_id": 9424,
+                        "code": "601519",
+                        "name": "\u5927\u667a\u6167",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "153.8",
+                        "stock_id": 8597,
+                        "code": "300638",
+                        "name": "\u5e7f\u548c\u901a",
+                        "money": "0.482"
+                    },
+                    {
+                        "fund": "153.61",
+                        "stock_id": 8301,
+                        "code": "300115",
+                        "name": "\u957f\u76c8\u7cbe\u5bc6",
+                        "money": "0.062"
+                    },
+                    {
+                        "fund": "153.51",
+                        "stock_id": 7514,
+                        "code": "000627",
+                        "name": "\u5929\u8302\u96c6\u56e2",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "153.5",
+                        "stock_id": 2681,
+                        "code": "601360",
+                        "name": "\u4e09\u516d\u96f6",
+                        "money": "0.458"
+                    },
+                    {
+                        "fund": "153.44",
+                        "stock_id": 1021,
+                        "code": "002355",
+                        "name": "\u5174\u6c11\u667a\u901a",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "151.88",
+                        "stock_id": 19004,
+                        "code": "601099",
+                        "name": "\u592a\u5e73\u6d0b",
+                        "money": "-0.571"
+                    },
+                    {
+                        "fund": "107.02",
+                        "stock_id": 8493,
+                        "code": "300461",
+                        "name": "\u7530\u4e2d\u7cbe\u673a",
+                        "money": "0.852"
+                    },
+                    {
+                        "fund": "51.77",
+                        "stock_id": 20046,
+                        "code": "603270",
+                        "name": "\u91d1\u5e1d\u80a1\u4efd",
+                        "money": "0.6"
+                    },
+                    {
+                        "fund": "109.63",
+                        "stock_id": 8650,
+                        "code": "300718",
+                        "name": "\u957f\u76db\u8f74\u627f",
+                        "money": "-1.767"
+                    }
+                ],
+                "badge": "\u9009\u624b",
+                "yesterday_is_markt": 0,
+                "zans": 2,
+                "wanzhu_comment": ""
+            },
+            {
+                "username": "\u50cf\u547c\u5438\u4e00\u6837\u7b80\u5355",
+                "yesterday_fund": 3275.79,
+                "group_rank": 10,
+                "match_id": 28,
+                "usercode": "801171",
+                "stock_date": "2024-12-04",
+                "df": "",
+                "yesterday_auto_complete": 0,
+                "is_markt": 0,
+                "rank": "",
+                "today_stock_img": [
+                    "http://hunanwanzhu.oss-cn-shenzhen.aliyuncs.com/hnwz/173329578690.png?x-oss-process=image/auto-orient,1/quality,q_90/watermark,text_6aG95Li75p2v5a6e55uY5aSn6LWb,color_ff0000,size_100,rotate_330,g_center,t_70,x_10,y_10"
+                ],
+                "player_id": "",
+                "yesterday_stock": [
+                    {
+                        "fund": "506.98",
+                        "stock_id": 984,
+                        "code": "300059",
+                        "name": "\u4e1c\u65b9\u8d22\u5bcc",
+                        "money": "-4.749"
+                    },
+                    {
+                        "fund": "237.26",
+                        "stock_id": 224,
+                        "code": "002292",
+                        "name": "\u5965\u98de\u5a31\u4e50",
+                        "money": "-8.323"
+                    },
+                    {
+                        "fund": "169.51",
+                        "stock_id": 19577,
+                        "code": "001222",
+                        "name": "\u6e90\u98de\u5ba0\u7269",
+                        "money": "25.199"
+                    },
+                    {
+                        "fund": "145.95",
+                        "stock_id": 9265,
+                        "code": "600797",
+                        "name": "\u6d59\u5927\u7f51\u65b0",
+                        "money": "10.777"
+                    },
+                    {
+                        "fund": "143.51",
+                        "stock_id": 549,
+                        "code": "300118",
+                        "name": "\u4e1c\u65b9\u65e5\u5347",
+                        "money": "-5.113"
+                    },
+                    {
+                        "fund": "139.93",
+                        "stock_id": 63,
+                        "code": "600318",
+                        "name": "\u65b0\u529b\u91d1\u878d",
+                        "money": "-8.799"
+                    },
+                    {
+                        "fund": "130.36",
+                        "stock_id": 8526,
+                        "code": "300520",
+                        "name": "\u79d1\u5927\u56fd\u521b",
+                        "money": "2.336"
+                    },
+                    {
+                        "fund": "111.42",
+                        "stock_id": 1022,
+                        "code": "300459",
+                        "name": "\u6c64\u59c6\u732b",
+                        "money": "-2.625"
+                    },
+                    {
+                        "fund": "93.43",
+                        "stock_id": 19888,
+                        "code": "301310",
+                        "name": "\u946b\u5b8f\u4e1a",
+                        "money": "-3.753"
+                    },
+                    {
+                        "fund": "54.21",
+                        "stock_id": 10309,
+                        "code": "837092",
+                        "name": "\u6c49\u946b\u79d1\u6280",
+                        "money": "3.513"
+                    },
+                    {
+                        "fund": "41.62",
+                        "stock_id": 7559,
+                        "code": "000716",
+                        "name": "\u9ed1\u829d\u9ebb",
+                        "money": "-0.003"
+                    },
+                    {
+                        "fund": "100.03",
+                        "stock_id": 2681,
+                        "code": "601360",
+                        "name": "\u4e09\u516d\u96f6",
+                        "money": "-6.04"
+                    }
+                ],
+                "init_fund": 1907.4062,
+                "yesterday_stock_img": [
+                    "http://hunanwanzhu.oss-cn-shenzhen.aliyuncs.com/hnwz/173320959689.png?x-oss-process=image/auto-orient,1/quality,q_90/watermark,text_6aG95Li75p2v5a6e55uY5aSn6LWb,color_ff0000,size_100,rotate_330,g_center,t_70,x_10,y_10"
+                ],
+                "today_fund": 3225.78,
+                "cw": "",
+                "id": 50109,
+                "opmode_group_name": "",
+                "opmode_group": "",
+                "user_id": 107093,
+                "ctime": "2024-12-04 15:04:08",
+                "pz": "",
+                "experience": "",
+                "zq": "",
+                "total_income": "69.12%",
+                "match_name": "",
+                "comments_count": 0,
+                "avatar": "../../images/userdefault.png",
+                "today_income": "-1.53%",
+                "auto_complete": 0,
+                "match_group": "136",
+                "today_stock": [
+                    {
+                        "fund": "183.52",
+                        "stock_id": 19911,
+                        "code": "301335",
+                        "name": "\u5929\u5143\u5ba0\u7269",
+                        "money": "-10.787"
+                    },
+                    {
+                        "fund": "166.13",
+                        "stock_id": 19762,
+                        "code": "301116",
+                        "name": "\u76ca\u5ba2\u98df\u54c1",
+                        "money": "12.904"
+                    },
+                    {
+                        "fund": "155.14",
+                        "stock_id": 1084,
+                        "code": "301007",
+                        "name": "\u5fb7\u8fc8\u4ed5",
+                        "money": "1.949"
+                    },
+                    {
+                        "fund": "153.48",
+                        "stock_id": 1007,
+                        "code": "002520",
+                        "name": "\u65e5\u53d1\u7cbe\u673a",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "153.4",
+                        "stock_id": 8008,
+                        "code": "002643",
+                        "name": "\u4e07\u6da6\u80a1\u4efd",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "144.76",
+                        "stock_id": 9505,
+                        "code": "603040",
+                        "name": "\u65b0\u5750\u6807",
+                        "money": "-4.288"
+                    },
+                    {
+                        "fund": "142.47",
+                        "stock_id": 9270,
+                        "code": "600808",
+                        "name": "\u9a6c\u94a2\u80a1\u4efd",
+                        "money": "-0.011"
+                    },
+                    {
+                        "fund": "112.53",
+                        "stock_id": 1787,
+                        "code": "300109",
+                        "name": "\u65b0\u5f00\u6e90",
+                        "money": "-0.008"
+                    },
+                    {
+                        "fund": "100.28",
+                        "stock_id": 9472,
+                        "code": "601933",
+                        "name": "\u6c38\u8f89\u8d85\u5e02",
+                        "money": "1.531"
+                    },
+                    {
+                        "fund": "100.16",
+                        "stock_id": 19599,
+                        "code": "001287",
+                        "name": "\u4e2d\u7535\u6e2f",
+                        "money": "-0.007"
+                    },
+                    {
+                        "fund": "73.12",
+                        "stock_id": 8366,
+                        "code": "300245",
+                        "name": "\u5929\u7391\u79d1\u6280",
+                        "money": "-4.461"
+                    },
+                    {
+                        "fund": "62.14",
+                        "stock_id": 10307,
+                        "code": "836826",
+                        "name": "\u76d6\u4e16\u98df\u54c1",
+                        "money": "-0.093"
+                    },
+                    {
+                        "fund": "21.37",
+                        "stock_id": 63,
+                        "code": "600318",
+                        "name": "\u65b0\u529b\u91d1\u878d",
+                        "money": "-12.075"
+                    }
+                ],
+                "badge": "\u9009\u624b",
+                "yesterday_is_markt": 0,
+                "zans": 0,
+                "wanzhu_comment": ""
+            }
+        ],
+        "match_group_info": {
+            "charge": 1,
+            "name": "\u5343\u4e07\u7ec4",
+            "ctime": "2024-09-27 11:39:51",
+            "id": 136,
+            "players_num": 108,
+            "is_active": 1,
+            "order": 4,
+            "match_id": 28
+        },
+        "fund_inout": {},
+        "fans": 191,
+        "followers": 0,
+        "userinfo": {
+            "intro": "",
+            "id": 107093,
+            "cw": "",
+            "join_time": "",
+            "app_openid": "",
+            "style": [],
+            "utype": 0,
+            "zq": "",
+            "role": 2,
+            "badge": "\u9009\u624b",
+            "account_img": "",
+            "username": "\u50cf\u547c\u5438\u4e00\u6837\u7b80\u5355",
+            "openid": "odN-l4pq1_90lwxVs2AH1XLjP_Lc",
+            "realname": "",
+            "usercode": "801171",
+            "df": "",
+            "password": "",
+            "nickname": "\u50cf\u547c\u5438\u4e00\u6837\u7b80\u5355",
+            "comment_status": 1,
+            "pz": "",
+            "ctime": "2024-07-11 15:17:11",
+            "unionid": "oEsEE6ZBqUdphgFbz0O0bJEHkx8Q",
+            "player_type": 3,
+            "avatar": "../../images/userdefault.png",
+            "is_bind": 1,
+            "forbid_status": 0
+        },
+        "today_record": {
+            "today_income_fund": 75000.0,
+            "match_group_name": "\u5343\u4e07\u7ec4",
+            "win_rate": "70.7%",
+            "is_markt": 0,
+            "rank": "",
+            "today_stock_img": [
+                "http://hunanwanzhu.oss-cn-shenzhen.aliyuncs.com/hnwz/173338215191.png?x-oss-process=image/auto-orient,1/quality,q_90/watermark,text_6aG95Li75p2v5a6e55uY5aSn6LWb,color_ff0000,size_100,rotate_330,g_center,t_70,x_10,y_10"
+            ],
+            "yesterday_stock": "[{\"fund\": \"183.52\", \"stock_id\": 19911, \"code\": \"301335\", \"name\": \"\\u5929\\u5143\\u5ba0\\u7269\", \"money\": \"-10.787\"}, {\"fund\": \"166.13\", \"stock_id\": 19762, \"code\": \"301116\", \"name\": \"\\u76ca\\u5ba2\\u98df\\u54c1\", \"money\": \"12.904\"}, {\"fund\": \"155.14\", \"stock_id\": 1084, \"code\": \"301007\", \"name\": \"\\u5fb7\\u8fc8\\u4ed5\", \"money\": \"1.949\"}, {\"fund\": \"153.48\", \"stock_id\": 1007, \"code\": \"002520\", \"name\": \"\\u65e5\\u53d1\\u7cbe\\u673a\", \"money\": \"-0.011\"}, {\"fund\": \"153.4\", \"stock_id\": 8008, \"code\": \"002643\", \"name\": \"\\u4e07\\u6da6\\u80a1\\u4efd\", \"money\": \"-0.011\"}, {\"fund\": \"144.76\", \"stock_id\": 9505, \"code\": \"603040\", \"name\": \"\\u65b0\\u5750\\u6807\", \"money\": \"-4.288\"}, {\"fund\": \"142.47\", \"stock_id\": 9270, \"code\": \"600808\", \"name\": \"\\u9a6c\\u94a2\\u80a1\\u4efd\", \"money\": \"-0.011\"}, {\"fund\": \"112.53\", \"stock_id\": 1787, \"code\": \"300109\", \"name\": \"\\u65b0\\u5f00\\u6e90\", \"money\": \"-0.008\"}, {\"fund\": \"100.28\", \"stock_id\": 9472, \"code\": \"601933\", \"name\": \"\\u6c38\\u8f89\\u8d85\\u5e02\", \"money\": \"1.531\"}, {\"fund\": \"100.16\", \"stock_id\": 19599, \"code\": \"001287\", \"name\": \"\\u4e2d\\u7535\\u6e2f\", \"money\": \"-0.007\"}, {\"fund\": \"73.12\", \"stock_id\": 8366, \"code\": \"300245\", \"name\": \"\\u5929\\u7391\\u79d1\\u6280\", \"money\": \"-4.461\"}, {\"fund\": \"62.14\", \"stock_id\": 10307, \"code\": \"836826\", \"name\": \"\\u76d6\\u4e16\\u98df\\u54c1\", \"money\": \"-0.093\"}, {\"fund\": \"21.37\", \"stock_id\": 63, \"code\": \"600318\", \"name\": \"\\u65b0\\u529b\\u91d1\\u878d\", \"money\": \"-12.075\"}]",
+            "today_fund": 3233.28,
+            "cw": "",
+            "opmode_group_name": "",
+            "style": [],
+            "user_id": 107093,
+            "pz": "",
+            "zq": "",
+            "match_name": "",
+            "today_income": "0.23%",
+            "account_img": "",
+            "username": "\u50cf\u547c\u5438\u4e00\u6837\u7b80\u5355",
+            "today_stock_total": 1978.44,
+            "group_rank": 10,
+            "realname": "",
+            "stock_date": "2024-12-05",
+            "df": "",
+            "cangwei": "61.19%",
+            "yesterday_auto_complete": 0,
+            "init_fund": 1907.4062,
+            "password": "",
+            "comment_status": 1,
+            "ctime": "2024-07-11 15:17:11",
+            "yesterday_fund": 3225.78,
+            "player_type": 3,
+            "comments_count": 0,
+            "avatar": "../../images/userdefault.png",
+            "badest_income": "-3.03%",
+            "match_id": 28,
+            "yesterday_stock_img": "[\"http://hunanwanzhu.oss-cn-shenzhen.aliyuncs.com/hnwz/173329578690.png?x-oss-process=image/auto-orient,1/quality,q_90/watermark,text_6aG95Li75p2v5a6e55uY5aSn6LWb,color_ff0000,size_100,rotate_330,g_center,t_70,x_10,y_10\"]",
+            "intro": "",
+            "player_id": "",
+            "players_num": 108,
+            "join_time": "",
+            "opmode_group": "",
+            "app_openid": "",
+            "id": 107093,
+            "role": 2,
+            "auto_complete": 0,
+            "badge": "\u9009\u624b",
+            "zans": 2,
+            "wanzhu_comment": "",
+            "openid": "odN-l4pq1_90lwxVs2AH1XLjP_Lc",
+            "usercode": "801171",
+            "match_group": "136",
+            "nickname": "\u50cf\u547c\u5438\u4e00\u6837\u7b80\u5355",
+            "unionid": "oEsEE6ZBqUdphgFbz0O0bJEHkx8Q",
+            "zan_count": 2,
+            "experience": "",
+            "is_bind": 1,
+            "total_income": "69.51%",
+            "utype": 0,
+            "yesterday_is_markt": 0,
+            "forbid_status": 0,
+            "today_stock": [
+                {
+                    "fund": "304.96",
+                    "stock_id": 498,
+                    "code": "300624",
+                    "name": "\u4e07\u5174\u79d1\u6280",
+                    "money": "-0.023"
+                },
+                {
+                    "fund": "168.79",
+                    "stock_id": 1007,
+                    "code": "002520",
+                    "name": "\u65e5\u53d1\u7cbe\u673a",
+                    "money": "15.296"
+                },
+                {
+                    "fund": "162.69",
+                    "stock_id": 8630,
+                    "code": "300687",
+                    "name": "\u8d5b\u610f\u4fe1\u606f",
+                    "money": "9.452"
+                },
+                {
+                    "fund": "153.84",
+                    "stock_id": 9424,
+                    "code": "601519",
+                    "name": "\u5927\u667a\u6167",
+                    "money": "-0.011"
+                },
+                {
+                    "fund": "153.8",
+                    "stock_id": 8597,
+                    "code": "300638",
+                    "name": "\u5e7f\u548c\u901a",
+                    "money": "0.482"
+                },
+                {
+                    "fund": "153.61",
+                    "stock_id": 8301,
+                    "code": "300115",
+                    "name": "\u957f\u76c8\u7cbe\u5bc6",
+                    "money": "0.062"
+                },
+                {
+                    "fund": "153.51",
+                    "stock_id": 7514,
+                    "code": "000627",
+                    "name": "\u5929\u8302\u96c6\u56e2",
+                    "money": "-0.011"
+                },
+                {
+                    "fund": "153.5",
+                    "stock_id": 2681,
+                    "code": "601360",
+                    "name": "\u4e09\u516d\u96f6",
+                    "money": "0.458"
+                },
+                {
+                    "fund": "153.44",
+                    "stock_id": 1021,
+                    "code": "002355",
+                    "name": "\u5174\u6c11\u667a\u901a",
+                    "money": "-0.011"
+                },
+                {
+                    "fund": "151.88",
+                    "stock_id": 19004,
+                    "code": "601099",
+                    "name": "\u592a\u5e73\u6d0b",
+                    "money": "-0.571"
+                },
+                {
+                    "fund": "107.02",
+                    "stock_id": 8493,
+                    "code": "300461",
+                    "name": "\u7530\u4e2d\u7cbe\u673a",
+                    "money": "0.852"
+                },
+                {
+                    "fund": "51.77",
+                    "stock_id": 20046,
+                    "code": "603270",
+                    "name": "\u91d1\u5e1d\u80a1\u4efd",
+                    "money": "0.6"
+                },
+                {
+                    "fund": "109.63",
+                    "stock_id": 8650,
+                    "code": "300718",
+                    "name": "\u957f\u76db\u8f74\u627f",
+                    "money": "-1.767"
+                }
+            ]
+        },
+        "match": {
+            "signup_start_time": "2024-09-27",
+            "signup_end_time": "2024-10-11",
+            "start_time": "2024-10-10",
+            "valid_dates": "[\"2024-10-09\", \"2024-10-10\", \"2024-10-11\", \"2024-10-14\", \"2024-10-15\", \"2024-10-16\", \"2024-10-17\", \"2024-10-18\", \"2024-10-21\", \"2024-10-22\", \"2024-10-23\", \"2024-10-24\", \"2024-10-25\", \"2024-10-28\", \"2024-10-29\", \"2024-10-30\", \"2024-10-31\", \"2024-11-01\", \"2024-11-04\", \"2024-11-05\", \"2024-11-06\", \"2024-11-07\", \"2024-11-08\", \"2024-11-11\", \"2024-11-12\", \"2024-11-13\", \"2024-11-14\", \"2024-11-15\", \"2024-11-18\", \"2024-11-19\", \"2024-11-20\", \"2024-11-21\", \"2024-11-22\", \"2024-11-25\", \"2024-11-26\", \"2024-11-27\", \"2024-11-28\", \"2024-11-29\", \"2024-12-02\", \"2024-12-03\", \"2024-12-04\", \"2024-12-05\", \"2024-12-06\"]",
+            "post_start_time": "2024-10-09",
+            "groups": [
+                "\u5343\u4e07\u7ec4"
+            ],
+            "calendar": "[{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-09\",\"end\":\"2024-10-09\",\"cellIndex\":1,\"isShow\":true,\"_id\":0},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-10\",\"end\":\"2024-10-10\",\"cellIndex\":1,\"isShow\":true,\"_id\":1},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-11\",\"end\":\"2024-10-11\",\"cellIndex\":1,\"isShow\":true,\"_id\":2},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-14\",\"end\":\"2024-10-14\",\"cellIndex\":1,\"isShow\":true,\"_id\":3},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-15\",\"end\":\"2024-10-15\",\"cellIndex\":1,\"isShow\":true,\"_id\":4},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-16\",\"end\":\"2024-10-16\",\"cellIndex\":1,\"isShow\":true,\"_id\":5},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-17\",\"end\":\"2024-10-17\",\"cellIndex\":1,\"isShow\":true,\"_id\":6},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-18\",\"end\":\"2024-10-18\",\"cellIndex\":1,\"isShow\":true,\"_id\":7},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-21\",\"end\":\"2024-10-21\",\"cellIndex\":1,\"isShow\":true,\"_id\":8},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-22\",\"end\":\"2024-10-22\",\"cellIndex\":1,\"isShow\":true,\"_id\":9},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-23\",\"end\":\"2024-10-23\",\"cellIndex\":1,\"isShow\":true,\"_id\":10},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-24\",\"end\":\"2024-10-24\",\"cellIndex\":1,\"isShow\":true,\"_id\":11},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-25\",\"end\":\"2024-10-25\",\"cellIndex\":1,\"isShow\":true,\"_id\":12},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-28\",\"end\":\"2024-10-28\",\"cellIndex\":1,\"isShow\":true,\"_id\":13},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-29\",\"end\":\"2024-10-29\",\"cellIndex\":1,\"isShow\":true,\"_id\":14},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-30\",\"end\":\"2024-10-30\",\"cellIndex\":1,\"isShow\":true,\"_id\":15},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-10-31\",\"end\":\"2024-10-31\",\"cellIndex\":1,\"isShow\":true,\"_id\":16},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-01\",\"end\":\"2024-11-01\",\"cellIndex\":1,\"isShow\":true,\"_id\":17},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-04\",\"end\":\"2024-11-04\",\"cellIndex\":1,\"isShow\":true,\"_id\":18},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-05\",\"end\":\"2024-11-05\",\"cellIndex\":1,\"isShow\":true,\"_id\":19},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-06\",\"end\":\"2024-11-06\",\"cellIndex\":1,\"isShow\":true,\"_id\":20},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-07\",\"end\":\"2024-11-07\",\"cellIndex\":1,\"isShow\":true,\"_id\":21},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-08\",\"end\":\"2024-11-08\",\"cellIndex\":1,\"isShow\":true,\"_id\":22},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-11\",\"end\":\"2024-11-11\",\"cellIndex\":1,\"isShow\":true,\"_id\":23},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-12\",\"end\":\"2024-11-12\",\"cellIndex\":1,\"isShow\":true,\"_id\":24},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-13\",\"end\":\"2024-11-13\",\"cellIndex\":1,\"isShow\":true,\"_id\":25},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-14\",\"end\":\"2024-11-14\",\"cellIndex\":1,\"isShow\":true,\"_id\":26},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-15\",\"end\":\"2024-11-15\",\"cellIndex\":1,\"isShow\":true,\"_id\":27},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-18\",\"end\":\"2024-11-18\",\"cellIndex\":1,\"isShow\":true,\"_id\":28},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-19\",\"end\":\"2024-11-19\",\"cellIndex\":1,\"isShow\":true,\"_id\":29},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-20\",\"end\":\"2024-11-20\",\"cellIndex\":1,\"isShow\":true,\"_id\":30},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-21\",\"end\":\"2024-11-21\",\"cellIndex\":1,\"isShow\":true,\"_id\":31},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-22\",\"end\":\"2024-11-22\",\"cellIndex\":1,\"isShow\":true,\"_id\":32},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-25\",\"end\":\"2024-11-25\",\"cellIndex\":1,\"isShow\":true,\"_id\":33},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-26\",\"end\":\"2024-11-26\",\"cellIndex\":1,\"isShow\":true,\"_id\":34},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-27\",\"end\":\"2024-11-27\",\"cellIndex\":1,\"isShow\":true,\"_id\":35},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-28\",\"end\":\"2024-11-28\",\"cellIndex\":1,\"isShow\":true,\"_id\":36},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-11-29\",\"end\":\"2024-11-29\",\"cellIndex\":1,\"isShow\":true,\"_id\":37},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-12-02\",\"end\":\"2024-12-02\",\"cellIndex\":1,\"isShow\":true,\"_id\":38},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-12-03\",\"end\":\"2024-12-03\",\"cellIndex\":1,\"isShow\":true,\"_id\":39},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-12-04\",\"end\":\"2024-12-04\",\"cellIndex\":1,\"isShow\":true,\"_id\":40},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-12-05\",\"end\":\"2024-12-05\",\"cellIndex\":1,\"isShow\":true,\"_id\":41},{\"title\":\"\u62a5\u5355\",\"start\":\"2024-12-06\",\"end\":\"2024-12-06\",\"cellIndex\":1,\"isShow\":true,\"_id\":42}]",
+            "id": 28,
+            "ctime": "2024-09-27 11:34:03",
+            "match_status": 3,
+            "name": "\u7b2c62\u5c4a\u987d\u4e3b\u676f\u5b9e\u76d8\u5927\u8d5b",
+            "awards_content": "\u5404\u7ec4\u7b2c\u4e00\u5956\u725b\u6c14\u51b2\u5929\u5956\u676f+\u8305\u53f0\u98de\u592953\u5ea6\u4e00\u74f6",
+            "viewer_price": 200.0,
+            "end_time": "2024-12-06",
+            "player_price": 218.0
+        },
+        "stock_age": 0
+    }
+}
